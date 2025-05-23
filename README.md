@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JerryGate
 - 👀 I’m interested in ...Backend Development
-- 🌱 I’m currently learning ...JavaScript and Node.js
-- 💞️ I’m looking to collaborate on ...Backend projects
+- 🌱 I am a Full Stack NextJS Developer
+- 💞️ I’m looking to collaborate on ...Full Stack Projects
 - 📫 How to reach me ...+234 7069910025 on Whatsapp
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
